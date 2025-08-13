@@ -1,0 +1,2 @@
+# IoT-Based-Solar-Powered-Smart-Backpack
+Successfully Implemented an IoT-Based Solar Powered Backpack Project, Integrating Solar Panels, Battery Management, and Sensor Monitoring to Provide a Sustainable and Reliable Energy Solution. It also Presented has Paper in the 3rd International Conference on ”Intelligent Computer Systems ” (ICICS) 2025 .
